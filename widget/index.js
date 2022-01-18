@@ -3087,8 +3087,6 @@ module.exports.default = axios;
 module.exports = require('./lib/axios');
 },{"./lib/axios":"nUiQ"}],"vKFU":[function(require,module,exports) {
 
-},{}],"xLDQ":[function(require,module,exports) {
-module.exports = "/logo.ef351327.svg";
 },{}],"a2Bw":[function(require,module,exports) {
 var define;
 var global = arguments[3];
@@ -8903,8 +8901,6 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 
-var _logo = _interopRequireDefault(require("./logo.svg"));
-
 require("./App.css");
 
 var _Alert = _interopRequireDefault(require("./components/Alert"));
@@ -8919,7 +8915,7 @@ function App(props) {
 
 var _default = App;
 exports.default = _default;
-},{"./logo.svg":"xLDQ","./App.css":"vKFU","./components/Alert":"HmYo"}],"Focm":[function(require,module,exports) {
+},{"./App.css":"vKFU","./components/Alert":"HmYo"}],"Focm":[function(require,module,exports) {
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
